@@ -1,4 +1,4 @@
-# NAS-GEM-80 EPROM CARD Version 1.2
+# NAS-GEM-80 EPROM CARD Version 2.3
 
 This card has been designed to replace the use of 2708/2716 EPROM’s with the more readily available and simpler to program 2732 / 2764 devices.
 
